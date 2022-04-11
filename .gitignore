@@ -1,0 +1,6 @@
+lib
+lib64
+bin
+include
+share
+geckodriver.log
